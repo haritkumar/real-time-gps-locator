@@ -8,7 +8,7 @@ https://console.cloud.google.com/apis/
 
 ### Step 3: Start spring boot project and access `http://localhost:8080`
 
-### Random lat lng generator
+### Random lat lng generator `Api.java`
 ```java
 public static Location getLocation(double x0, double y0, int radius) {
 	    Random random = new Random();
